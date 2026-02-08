@@ -1,0 +1,3 @@
+metric	median	IQR
+spearman(log2(M+1), log2(M/IC))	0.918322672659456	0.00753608333290967
+top5000 overlap fraction	2e-04	4e-04
