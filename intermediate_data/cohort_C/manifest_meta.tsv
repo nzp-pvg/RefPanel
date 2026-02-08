@@ -1,0 +1,95 @@
+sample_id	group	Staging	Sex	Smoking.Status	Consensus.Cluster
+SCLC.001	SCLC	Extensive-stage	Female	Former smoker	1
+SCLC.002	SCLC	Limited-stage	Female	Former smoker	1
+SCLC.003	SCLC	Limited-stage	Male	Current smoker	2
+SCLC.004	SCLC	Limited-stage	Male	Never smoker	1
+SCLC.005	SCLC	Limited-stage	Female	Former smoker	2
+SCLC.006	SCLC	Limited-stage	Female	Never smoker	2
+SCLC.007	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.008	SCLC	Extensive-stage	Male	Current smoker	1
+SCLC.009	SCLC	Limited-stage	Male	Former smoker	1
+SCLC.010	SCLC	Limited-stage	Female	Current smoker	1
+SCLC.011	SCLC	Limited-stage	Male	Former smoker	2
+SCLC.012	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.013	SCLC	Extensive-stage	Female	Current smoker	2
+SCLC.014	SCLC	Limited-stage	Female	Current smoker	2
+SCLC.015	SCLC	Extensive-stage	Female	Current smoker	2
+SCLC.016	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.017	SCLC	Extensive-stage	Male	Former smoker	1
+SCLC.018	SCLC	Limited-stage	Female	Current smoker	2
+SCLC.019	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.020	SCLC	Limited-stage	Female	Never smoker	1
+SCLC.021	SCLC	Limited-stage	Female	Never smoker	1
+SCLC.022	SCLC	Extensive-stage	Male	Former smoker	1
+SCLC.023	SCLC	Limited-stage	Female	Current smoker	1
+SCLC.024	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.025	SCLC	Limited-stage	Male	Current smoker	2
+SCLC.026	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.027	SCLC	Extensive-stage	Male	Never smoker	1
+SCLC.028	SCLC	Extensive-stage	Female	Former smoker	2
+SCLC.029	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.030	SCLC	Limited-stage	Male	Current smoker	1
+SCLC.031	SCLC	Limited-stage	Female	Current smoker	1
+SCLC.032	SCLC	Limited-stage	Male	Former smoker	1
+SCLC.033	SCLC	Extensive-stage	Male	Never smoker	1
+SCLC.034	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.035	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.036	SCLC	Extensive-stage	Male	Current smoker	1
+SCLC.037	SCLC	Limited-stage	Female	Current smoker	1
+SCLC.038	SCLC	Extensive-stage	Female	Current smoker	2
+SCLC.039	SCLC	Limited-stage	Female	Current smoker	1
+SCLC.040	SCLC	Limited-stage	Male	Former smoker	1
+SCLC.041	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.042	SCLC	Limited-stage	Male	Former smoker	1
+SCLC.043	SCLC	Limited-stage	Male	Current smoker	2
+SCLC.044	SCLC	Extensive-stage	Male	Current smoker	1
+SCLC.045	SCLC	Extensive-stage	Female	Current smoker	2
+SCLC.046	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.047	SCLC	Extensive-stage	Female	Former smoker	2
+SCLC.048	SCLC	Limited-stage	Male	Former smoker	1
+SCLC.049	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.050	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.051	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.052	SCLC	Limited-stage	Male	Current smoker	1
+SCLC.053	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.054	SCLC	Limited-stage	Male	Former smoker	1
+SCLC.055	SCLC	Limited-stage	Female	Current smoker	2
+SCLC.056	SCLC	Extensive-stage	Female	Current smoker	2
+SCLC.057	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.058	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.059	SCLC	Limited-stage	Male	Never smoker	2
+SCLC.060	SCLC	Extensive-stage	Female	Former smoker	2
+SCLC.061	SCLC	Limited-stage	Female	Former smoker	1
+SCLC.062	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.063	SCLC	Extensive-stage	Male	Current smoker	1
+SCLC.064	SCLC	Extensive-stage	Female	Current smoker	2
+SCLC.065	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.066	SCLC	Limited-stage	Female	Former smoker	2
+SCLC.067	SCLC	Extensive-stage	Female	Former smoker	2
+SCLC.068	SCLC	Limited-stage	Male	Current smoker	1
+SCLC.069	SCLC	Extensive-stage	Male	Current smoker	2
+SCLC.070	SCLC	Limited-stage	Male	Former smoker	1
+SCLC.071	SCLC	Extensive-stage	Male	Former smoker	1
+SCLC.072	SCLC	Limited-stage	Female	Former smoker	1
+SCLC.073	SCLC	Extensive-stage	Male	Former smoker	2
+SCLC.074	SCLC	Extensive-stage	Female	Never smoker	2
+NCC.001	NCC	NA	NA	NA	NA
+NCC.002	NCC	NA	NA	NA	NA
+NCC.003	NCC	NA	NA	NA	NA
+NCC.004	NCC	NA	NA	NA	NA
+NCC.005	NCC	NA	NA	NA	NA
+NCC.006	NCC	NA	NA	NA	NA
+NCC.007	NCC	NA	NA	NA	NA
+NCC.008	NCC	NA	NA	NA	NA
+NCC.009	NCC	NA	NA	NA	NA
+NCC.010	NCC	NA	NA	NA	NA
+NCC.011	NCC	NA	NA	NA	NA
+NCC.012	NCC	NA	NA	NA	NA
+NCC.013	NCC	NA	NA	NA	NA
+NCC.014	NCC	NA	NA	NA	NA
+NCC.015	NCC	NA	NA	NA	NA
+NCC.016	NCC	NA	NA	NA	NA
+NCC.017	NCC	NA	NA	NA	NA
+NCC.018	NCC	NA	NA	NA	NA
+NCC.019	NCC	NA	NA	NA	NA
+NCC.020	NCC	NA	NA	NA	NA

@@ -1,0 +1,95 @@
+ID,Staging,Sex,Smoking.Status,Consensus.Cluster
+SCLC.001,Extensive-stage,Female,Former smoker,1
+SCLC.002,Limited-stage,Female,Former smoker,1
+SCLC.003,Limited-stage,Male,Current smoker,2
+SCLC.004,Limited-stage,Male,Never smoker,1
+SCLC.005,Limited-stage,Female,Former smoker,2
+SCLC.006,Limited-stage,Female,Never smoker,2
+SCLC.007,Extensive-stage,Male,Former smoker,2
+SCLC.008,Extensive-stage,Male,Current smoker,1
+SCLC.009,Limited-stage,Male,Former smoker,1
+SCLC.010,Limited-stage,Female,Current smoker,1
+SCLC.011,Limited-stage,Male,Former smoker,2
+SCLC.012,Extensive-stage,Male,Current smoker,2
+SCLC.013,Extensive-stage,Female,Current smoker,2
+SCLC.014,Limited-stage,Female,Current smoker,2
+SCLC.015,Extensive-stage,Female,Current smoker,2
+SCLC.016,Extensive-stage,Male,Former smoker,2
+SCLC.017,Extensive-stage,Male,Former smoker,1
+SCLC.018,Limited-stage,Female,Current smoker,2
+SCLC.019,Extensive-stage,Male,Current smoker,2
+SCLC.020,Limited-stage,Female,Never smoker,1
+SCLC.021,Limited-stage,Female,Never smoker,1
+SCLC.022,Extensive-stage,Male,Former smoker,1
+SCLC.023,Limited-stage,Female,Current smoker,1
+SCLC.024,Extensive-stage,Male,Current smoker,2
+SCLC.025,Limited-stage,Male,Current smoker,2
+SCLC.026,Extensive-stage,Male,Former smoker,2
+SCLC.027,Extensive-stage,Male,Never smoker,1
+SCLC.028,Extensive-stage,Female,Former smoker,2
+SCLC.029,Extensive-stage,Male,Former smoker,2
+SCLC.030,Limited-stage,Male,Current smoker,1
+SCLC.031,Limited-stage,Female,Current smoker,1
+SCLC.032,Limited-stage,Male,Former smoker,1
+SCLC.033,Extensive-stage,Male,Never smoker,1
+SCLC.034,Extensive-stage,Male,Former smoker,2
+SCLC.035,Extensive-stage,Male,Current smoker,2
+SCLC.036,Extensive-stage,Male,Current smoker,1
+SCLC.037,Limited-stage,Female,Current smoker,1
+SCLC.038,Extensive-stage,Female,Current smoker,2
+SCLC.039,Limited-stage,Female,Current smoker,1
+SCLC.040,Limited-stage,Male,Former smoker,1
+SCLC.041,Extensive-stage,Male,Current smoker,2
+SCLC.042,Limited-stage,Male,Former smoker,1
+SCLC.043,Limited-stage,Male,Current smoker,2
+SCLC.044,Extensive-stage,Male,Current smoker,1
+SCLC.045,Extensive-stage,Female,Current smoker,2
+SCLC.046,Extensive-stage,Male,Former smoker,2
+SCLC.047,Extensive-stage,Female,Former smoker,2
+SCLC.048,Limited-stage,Male,Former smoker,1
+SCLC.049,Extensive-stage,Male,Current smoker,2
+SCLC.050,Extensive-stage,Male,Former smoker,2
+SCLC.051,Extensive-stage,Male,Former smoker,2
+SCLC.052,Limited-stage,Male,Current smoker,1
+SCLC.053,Extensive-stage,Male,Former smoker,2
+SCLC.054,Limited-stage,Male,Former smoker,1
+SCLC.055,Limited-stage,Female,Current smoker,2
+SCLC.056,Extensive-stage,Female,Current smoker,2
+SCLC.057,Extensive-stage,Male,Former smoker,2
+SCLC.058,Extensive-stage,Male,Current smoker,2
+SCLC.059,Limited-stage,Male,Never smoker,2
+SCLC.060,Extensive-stage,Female,Former smoker,2
+SCLC.061,Limited-stage,Female,Former smoker,1
+SCLC.062,Extensive-stage,Male,Former smoker,2
+SCLC.063,Extensive-stage,Male,Current smoker,1
+SCLC.064,Extensive-stage,Female,Current smoker,2
+SCLC.065,Extensive-stage,Male,Current smoker,2
+SCLC.066,Limited-stage,Female,Former smoker,2
+SCLC.067,Extensive-stage,Female,Former smoker,2
+SCLC.068,Limited-stage,Male,Current smoker,1
+SCLC.069,Extensive-stage,Male,Current smoker,2
+SCLC.070,Limited-stage,Male,Former smoker,1
+SCLC.071,Extensive-stage,Male,Former smoker,1
+SCLC.072,Limited-stage,Female,Former smoker,1
+SCLC.073,Extensive-stage,Male,Former smoker,2
+SCLC.074,Extensive-stage,Female,Never smoker,2
+NCC.001,Non-cancer control,MALE,Current smoker,NA
+NCC.002,Non-cancer control,FEMALE,Current smoker,NA
+NCC.003,Non-cancer control,FEMALE,Current smoker,NA
+NCC.004,Non-cancer control,MALE,Current smoker,NA
+NCC.005,Non-cancer control,FEMALE,Current smoker,NA
+NCC.006,Non-cancer control,MALE,Current smoker,NA
+NCC.007,Non-cancer control,FEMALE,Current smoker,NA
+NCC.008,Non-cancer control,MALE,Current smoker,NA
+NCC.009,Non-cancer control,FEMALE,Current smoker,NA
+NCC.010,Non-cancer control,MALE,Current smoker,NA
+NCC.011,Non-cancer control,MALE,Current smoker,NA
+NCC.012,Non-cancer control,MALE,Current smoker,NA
+NCC.013,Non-cancer control,MALE,Current smoker,NA
+NCC.014,Non-cancer control,MALE,Current smoker,NA
+NCC.015,Non-cancer control,MALE,Current smoker,NA
+NCC.016,Non-cancer control,MALE,Current smoker,NA
+NCC.017,Non-cancer control,FEMALE,Current smoker,NA
+NCC.018,Non-cancer control,FEMALE,Current smoker,NA
+NCC.019,Non-cancer control,MALE,Current smoker,NA
+NCC.020,Non-cancer control,FEMALE,Current smoker,NA
