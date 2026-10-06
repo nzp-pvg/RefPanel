@@ -1,0 +1,7 @@
+sample	group	A_features	nonzero_features	nonzero_fraction	fragment_overlaps	fragment_policy
+GSM7788592	Colorectal	882903	812667	0.920	8432844	20-1000bp; start>=0
+GSM7788593	Colorectal	882903	810097	0.917538	8632556	20-1000bp; start>=0
+GSM7788594	Colorectal	882903	811753	0.919414	9051874	20-1000bp; start>=0
+GSM7788666	Healthy	882903	716321	0.811	3157118	20-1000bp; start>=0
+GSM7788667	Healthy	882903	783155	0.887023	5629666	20-1000bp; start>=0
+GSM7788668	Healthy	882903	691748	0.783493	2756794	20-1000bp; start>=0
