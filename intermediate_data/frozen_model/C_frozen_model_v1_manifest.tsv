@@ -1,0 +1,10 @@
+field	value
+n_features	20000
+n_training_samples	124
+n_HCC	89
+n_CTL	35
+lambda_1se	0.0931415556764506
+alpha	1
+standardize	TRUE
+transform	log2(count_or_signal+1)
+D_used	FALSE
