@@ -1,0 +1,11 @@
+component	frozen_source	used_in_external_deployment	external_update_allowed
+feature_universe	A/B locked artifact	C/D/F	NO
+feature_order	C_frozen_model_v1_feature_order.tsv	C/D/F	NO
+model_coefficients	C_frozen_model_v1.rds	C/D/F	NO
+calibration	B paired IP-IC calibration	C/D/F	NO
+threshold	B calibration setting	C/D/F	NO
+fragment_policy	20-1000 bp	C/D/F	NO
+PBL_exclusion	D PBL_control_20 audit	D secondary PBL	NO
+feature_selection	A/B only	C/D/F	NO
+model_retraining	A/B/C lock only	C/D/F	NO
+bootstrap_unit	adjudicated subject-proxy	D/F summaries	NO

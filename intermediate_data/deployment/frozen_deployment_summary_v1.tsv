@@ -1,0 +1,3 @@
+material	cohort	n	n_positive	n_negative	auc
+cfDNA	D	50	30	20	0.663333333333333
+PBL	D	49	30	19	0.507017543859649

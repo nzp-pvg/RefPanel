@@ -1,0 +1,7 @@
+material	strategy	n	auc	uses_D_labels
+cfDNA	conventional	50	0.493333333333333	FALSE
+cfDNA	adaptive_5fold	50	0.4	TRUE
+cfDNA	locked_A_model	50	0.663333333333333	FALSE
+PBL	conventional	49	0.610526315789474	FALSE
+PBL	adaptive_5fold	49	0.37719298245614	TRUE
+PBL	locked_A_model	49	0.507017543859649	FALSE

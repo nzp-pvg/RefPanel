@@ -1,0 +1,4 @@
+Figure 4 data exports
+F: cancer-stratified locked frozen C deployment AUC with bootstrap 95% CI.
+D: frozen cross-disease cfDNA/PBL transfer summary.
+Do not pool domains as a primary endpoint.
