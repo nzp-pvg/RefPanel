@@ -1,0 +1,2 @@
+n_features	n_samples	any_NA	min_value	max_value	analysis
+20000	50	FALSE	0	12523	primary_cfDNA
